@@ -11,4 +11,6 @@ $p1 = new Produto();
 $p1->setValor(300);
 var_dump($p1->getValor());
 
+echo "Grego";
+
 ?>
